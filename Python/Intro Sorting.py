@@ -1,0 +1,5 @@
+find = int(input())
+input()
+values = map(int, input().strip().split(' '))
+values = list(values)
+print(values.index(find))

@@ -1,5 +1,5 @@
 # Solved HackerRank
-This is a page to resolve the problem in page HackerRank in many languages.
+This is a page to solve the problem in page HackerRank in many languages.
 
 ## Marc's Cakewalk
 Marc loves cupcakes, but he also likes to stay fit. He eats cupcakes in one sitting, and each cupcake has a calorie count, . After eating a cupcake with calories, he must walk at least 2^j * c (where is the number cupcakes he has already eaten) miles to maintain his weight.
